@@ -1,8 +1,15 @@
 # uts
 
-A new Flutter project.
+Project android app dengan bahasa dart menggunakan framework flutter. 
+Project ini dibuat dengan tujuan semata-mata menyelesaikan UTS Kalkulus II. Sangat wellcome jika anda ingin berkontribusi. 
 
-## Getting Started
+STAY SAFE TEMAN TEMAN
+
+
+
+
+
+## CATATAN KAKI
 
 This project is a starting point for a Flutter application.
 
