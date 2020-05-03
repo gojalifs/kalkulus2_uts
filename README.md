@@ -4,8 +4,10 @@ Project android app dengan bahasa dart menggunakan framework flutter.
 Project ini dibuat dengan tujuan semata-mata menyelesaikan UTS Kalkulus II. Sangat wellcome jika anda ingin berkontribusi. 
 
 Dibuat oleh :
-Fajar Sidik Prasetio, 
-Octalya Nindi Saputri, 
+Fajar Sidik Prasetio
+
+Octalya Nindi Saputri
+
 Muhammad Irsyad Maulana Barlin Pradika
 
 
